@@ -1,0 +1,35 @@
+Life Insurance Policy 
+
+context_text = """
+The Secure Life Term Plan is a pure protection policy offering a high sum assured at affordable premiums. Features include:
+
+1. Eligibility:
+    - Entry age: 18 to 65 years
+    - Maximum maturity age: 80 years
+    - Policy term: 10 to 40 years
+
+2. Sum Assured Options: INR 25,00,000 to INR 2 Crore
+
+3. Premium Payment:
+    - Monthly, Quarterly, Half-Yearly, or Annually
+    - Premium waiver on permanent disability
+
+4. Benefits:
+    - Death Benefit: Lump sum paid to nominee in case of policyholder’s death during the policy term.
+    - Optional Riders:
+        - Critical Illness Rider
+        - Accidental Death Rider
+        - Income Benefit Rider
+
+5. Tax Benefits: Under Section 80C and 10(10D) of the Income Tax Act.
+
+6. Claim Process:
+    - Submit claim form, policy copy, death certificate, ID proof of nominee.
+    - Settlement within 7–10 working days.
+
+7. Grace Period: 30 days for annual/quarterly, 15 days for monthly payments.
+
+8. Free Look Period: 15 days from policy receipt to review terms.
+
+9. Exclusions: Suicide within the first 12 months, and death due to participation in hazardous activities.
+"""
